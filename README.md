@@ -39,14 +39,14 @@ Program dibuat dengan pendekatan **OOP** agar lebih terstruktur, mudah dikembang
 
 ```
 +---------------------------+
-| DaftarNilaiMahasiswa |
+| DaftarNilaiMahasiswa      |
 +---------------------------+
-| - data: list |
+| - data: list              |
 +---------------------------+
-| + tambah() |
-| + tampilkan() |
-| + hapus(nama) |
-| + ubah(nama) |
+| + tambah()                |
+| + tampilkan()             |
+| + hapus(nama)             |
+| + ubah(nama)              |
 +---------------------------+
 ```
 
